@@ -225,24 +225,6 @@ const SAMPLE_JOBS: Job[] = [
     companySize: '200-500',
     industry: 'Software Testing',
   },
-  {
-    id: 13,
-    title: 'Cloud Architect',
-    company: 'SkyHigh Cloud',
-    location: 'Denver, CO',
-    type: 'Full-time',
-    experience: '6+ years',
-    salary: '$130,000 - $160,000',
-    description: 'Seeking an experienced Cloud Architect to design scalable cloud solutions...',
-    requirements: ['Expertise in AWS, Azure, or Google Cloud', 'Experience with cloud-native architectures', 'Proficiency in Kubernetes and Docker'],
-    benefits: ['Stock options', 'Remote work opportunities', 'Healthcare benefits'],
-    logo: 'https://source.unsplash.com/random/100x100?cloud',
-    applyUrl: 'https://example.com/apply/cloud-architect',
-    skills: ['AWS', 'Azure', 'Kubernetes', 'Cloud Architecture'],
-    postedDate: '2023-04-09',
-    companySize: '500-1000',
-    industry: 'Cloud Computing',
-  },
 ];
 
 
